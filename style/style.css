@@ -1,0 +1,11 @@
+img {
+  display: block;
+}
+table {
+  margin: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+td {
+  padding: 0;
+}
